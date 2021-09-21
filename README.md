@@ -1,5 +1,4 @@
 # Pacmen Factory
-<img src="PacMan1.png">
 This is a simulation of a Pacmen "factory" where moving Pacmen can be generated at varying speeds.
 Pacmen will collide with the edges of the screen but not with other Pacmen.
 ## How to Run
@@ -31,3 +30,4 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
   </body>
 
+<img src="PacMan1.png">
