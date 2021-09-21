@@ -1,7 +1,7 @@
 # Pacmen Factory
 <img src="PacMan1.png">
 This is a simulation of a Pacmen "factory" where moving Pacmen can be generated at varying speeds.
-Pacmen will collide with the edges of the screen but not with other Pacmen. <br>
+Pacmen will collide with the edges of the screen but not with other Pacmen.
 ## How to Run
 Pressing the "Add Pacman" button will create a new Pacman. If the game has not been started, he will not move. 
 Pressing "start game" will cause every Pacman on the screen to move.
